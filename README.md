@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@dharnel_agan-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/dharnel_agan)](https://twitter.com/dharnel_agan)
+[![Twitter Badge](https://img.shields.io/badge/-@dharnel__agan-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/dharnel_agan)](https://twitter.com/dharnel_agan)
 
 I’m an aspiring cloud/devops engineer, currently looking for internship or entry-level opportunities to gain real life experiences. I am passionate about sharing and gaining knowledge and providing solutions to problems.  
 
