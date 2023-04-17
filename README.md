@@ -17,6 +17,6 @@ I’m an aspiring cloud/devops engineer, currently looking for internship or ent
 - 📫 You can [review my resume](https://docs.google.com/document/d/1bCMKg45DLGTkTYr-5QKio-Eqw8juxDhvXbnjAjDlV2g/edit?usp=sharing) and contact me by emailing me on dharnel2863@gmail.com
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharnel)](https://github.com/dharnel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharnel&layout=compact&theme=vision-friendly-dark)](https://github.com/dharnel/github-readme-stats)
 
 
