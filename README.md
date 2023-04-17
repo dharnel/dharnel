@@ -20,8 +20,7 @@ I’m an aspiring cloud/devops engineer, currently looking for internship or ent
 
 ### :fire: My Stats :
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharnel&show_icons=true&include_all_commits=true" alt="dharnel's GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharnel&langs_count=8&layout=compact" alt="dharnel's GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharnel&show_icons=true&include_all_commits=true" alt="dharnel's GitHub stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharnel&langs_count=8&layout=compact" alt="dharnel's GitHub stats" />
 
 ---
 
