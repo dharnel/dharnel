@@ -16,9 +16,13 @@ I’m an aspiring cloud/devops engineer, currently looking for internship or ent
 - 🤔 I’m looking for help with open source projects, hackathons, internships and entry-level opportunities
 - 📫 You can [review my resume](https://docs.google.com/document/d/1bCMKg45DLGTkTYr-5QKio-Eqw8juxDhvXbnjAjDlV2g/edit?usp=sharing) and contact me by emailing me on dharnel2863@gmail.com
 
+---
+
 ### :fire: My Stats :
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dharnel&show_icons=true&include_all_commits=true&hide_border=true" alt="dharnel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharnel&langs_count=8&layout=compact&hide_border=true" alt="dharnel's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dharnel&show_icons=true&include_all_commits=true" alt="dharnel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharnel&langs_count=8&layout=compact" alt="dharnel's GitHub stats" /> |
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
